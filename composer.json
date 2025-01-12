@@ -1,0 +1,60 @@
+{
+    "name": "sycho/flarum-github-milestone",
+    "description": "Adds GitHub milestone activity to your flarum forum.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sami Mazouz"
+        }
+    ],
+    "type": "flarum-extension",
+    "support": {
+        "issues": "https://github.com/SychO9/flarum-github-milestone/issues",
+        "source": "https://github.com/SychO9/flarum-github-milestone",
+        "forum": "https://discuss.flarum.org/d/25521"
+    },
+    "homepage": "https://sycho9.github.io",
+    "funding": [
+        {
+            "type": "other",
+            "url": "https://www.buymeacoffee.com/sycho"
+        }
+    ],
+    "require": {
+        "flarum/core": "^2.0.0-beta",
+        "sycho/flarum-uikit": "^0.3.0",
+        "knplabs/github-api": "^3.16"
+    },
+    "autoload": {
+        "psr-4": {
+            "SychO\\GithubMilestone\\": "src/"
+        }
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "GitHub Milestone",
+            "category": "feature",
+            "icon": {
+                "name": "fab fa-github-alt",
+                "backgroundColor": "#117187",
+                "color": "#fff"
+            }
+        },
+        "flarum-cli": {
+            "modules": {
+                "typescript": true,
+                "githubActions": true,
+                "editorConfig": true,
+                "prettier": true
+            }
+        }
+    },
+    "require-dev": {
+        "flarum/tags": "^2.0.0-beta"
+    },
+    "config": {
+        "allow-plugins": {
+            "php-http/discovery": false
+        }
+    }
+}
