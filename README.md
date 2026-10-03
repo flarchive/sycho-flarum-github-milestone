@@ -2,13 +2,16 @@
 
 > **Read-only archive of released versions of sycho/flarum-github-milestone.** Not for installation: use [Packagist](https://packagist.org/packages/sycho/flarum-github-milestone) or the [upstream repository](https://github.com/SychO9/flarum-github-milestone).
 
-**0** versions archived · Latest: [`v0.2.0`](https://github.com/flarchive/sycho-flarum-github-milestone/tree/archive/v0.2.0) · License: `MIT` · Flarum: `^2.0.0-beta`
+**4** versions archived · Latest: [`v0.2.0`](https://github.com/flarchive/sycho-flarum-github-milestone/tree/archive/v0.2.0) · License: `MIT` · Flarum: `^2.0.0-beta`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.1.0` | 2020-11-29 | `^0.1.0-beta.14` | [Browse](https://github.com/flarchive/sycho-flarum-github-milestone/tree/archive/v0.1.0) |
+| `v0.1.1` | 2020-12-15 | `^0.1.0-beta.15` | [Browse](https://github.com/flarchive/sycho-flarum-github-milestone/tree/archive/v0.1.1) |
+| `v0.1.2` | 2021-06-23 | `^1.0.0` | [Browse](https://github.com/flarchive/sycho-flarum-github-milestone/tree/archive/v0.1.2) |
+| `v0.2.0` | 2025-01-12 | `^2.0.0-beta` | [Browse](https://github.com/flarchive/sycho-flarum-github-milestone/tree/archive/v0.2.0) |
 
 Catalog entry: [packages/sycho-flarum-github-milestone.json](https://github.com/flarchive/archive-index/blob/main/packages/sycho-flarum-github-milestone.json)
 
